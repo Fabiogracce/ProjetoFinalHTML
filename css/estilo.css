@@ -22,7 +22,7 @@ header{
     display: inline; /* Transformar coluna em linha */
     border: 2px solid #000;
     padding: 20px;
-    background-color: #000;
+    background-color:#000;
 }
  
 ul{
@@ -76,7 +76,7 @@ h3{
     border: 2px solid #000; /* Bordas */
     margin-top: 0%; /* Espaço Externo */
     padding: 3%; /*Espaço Interno*/
-    background-color: #000;
+    background-color:#000;
     color: #fff;
     font-size: 130%;
 }
@@ -87,9 +87,11 @@ a{
     font-weight: bold; /* Negrito */
     background-color:#000;
     color: #fff;
-    padding-left: 15%;
-    padding-right: 15%;
+    padding-left: 37%;
+    padding-right: 37%;
     font-size: 140%;
+    
+    
 }
  
 .preco{
@@ -99,7 +101,7 @@ a{
     margin-right: 25%;
     font-weight: bold;
     color: #fff;
-    background-color: #000;
+    background-color:#000;
     font: 130%;
     border-radius: 60%;
 }
@@ -107,6 +109,10 @@ a{
 p{
     text-align: center;
     font-size: 150%;
-    color: #000;
-    
+    color: #000; 
+       
+}
+
+h1{
+    color: #fff;
 }
